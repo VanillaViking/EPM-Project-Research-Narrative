@@ -45,7 +45,18 @@ Although a deadline that is too harsh can often be detrimental to a project's su
 == Learnings
 Researching into the Raspberry Pi project reveals elements that make a project successful. For example, it is very important to have a clearly established project scope. This will allow the team to be focused on the right thing, and not distracted by changing requirements. The project also shows that deadlines are not always bad, infact, they can be a motivation to overcome obstacles for the team.
 
-= Project B: 
+= Project B: Google Glass
+
+Google glass is a family of smart glasses produced by Google. It's main features were a heads up display, a built-in camera and Internet connectivity through natural language voice commands. It was developed by Google X, a facility within google that was focused on improving commodities by a factor of 10, through efforts called "moonshots". The product was launched in 2014, however pulled from the market by 2015 @whygoogleglassfailed. 
+
+The purpose of Google Glass was to take a leap forward in the way humans interact with technology, and provide a more seamless and hands-free way to interact with the internet, by integrating it directly into smart glasses. However, the product ultimately failed due to underwhelming sales and negative customer reception @screenrantgoogleglass.
+
+// relevance to discipline
+The google glass project is relevant to the discipline of software engineering as it is a project that marks the importance of requirements elicitation and implementation for software-embedded systems. Often times, the software can make the difference between a project successfully meeting requirements and a project failing to satisfy stakeholders. In the case of Google glass, lack-luster software contributed to the poor execution of the Google Glass project.
+
+== Why Google Glass Failed
+
+
 
 = Project C: 
 = Project D: 
