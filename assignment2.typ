@@ -56,6 +56,7 @@ The google glass project is relevant to the discipline of software engineering a
 
 == Why Google Glass Failed
 
+Google glass, as a product of the Google X facility was a "moonshot" product, which caused the expectations out of the product to be unrealistically high. This negatively impacted the retail of the product in many ways. Firstly, the google glass launched with a luxurious price of \$1,500.
 
 
 = Project C: 
