@@ -1,3 +1,5 @@
+#import "@preview/wordometer:0.1.1": word-count, total-words
+
 #align(center, text(20pt)[
   *Task 2 - Project Research Narrative*
 ])
@@ -14,9 +16,11 @@
 #show link: underline
 #show link: set text(blue)
 #show cite: set text(navy)
+#show: word-count
 
 #outline()
 #pagebreak()
+
 
 = Project A: Raspberry Pi
 
@@ -47,20 +51,26 @@ Researching into the Raspberry Pi project reveals elements that make a project s
 
 = Project B: Google Glass
 
-Google glass is a family of smart glasses produced by Google. It's main features were a heads up display, a built-in camera and Internet connectivity through natural language voice commands. It was developed by Google X, a facility within google that was focused on improving commodities by a factor of 10, through efforts called "moonshots". The product was launched in 2014, however pulled from the market by 2015 @whygoogleglassfailed. 
+Google glass is a family of smart glasses produced by Google. It's main features were a heads up display, a built-in camera and Internet connectivity through natural language voice commands. It was developed by Google X, a facility within google that was focused on improving commodities by a factor of 10, through efforts called "moonshots". The product was launched in 2014, however pulled from the market by 2015 @investopedia. 
 
 The purpose of Google Glass was to take a leap forward in the way humans interact with technology, and provide a more seamless and hands-free way to interact with the internet, by integrating it directly into smart glasses. However, the product ultimately failed due to underwhelming sales and negative customer reception @screenrantgoogleglass.
 
-// relevance to discipline
 The google glass project is relevant to the discipline of software engineering as it is a project that marks the importance of requirements elicitation and implementation for software-embedded systems. Often times, the software can make the difference between a project successfully meeting requirements and a project failing to satisfy stakeholders. In the case of Google glass, lack-luster software contributed to the poor execution of the Google Glass project.
+
+#figure(
+  image("google-glass.png", width: 30%),
+  caption: [Google glass],
+) <raspi>
 
 == Why Google Glass Failed
 
-Google glass, as a product of the Google X facility was a "moonshot" product, which caused the expectations out of the product to be unrealistically high. This negatively impacted the retail of the product in many ways. Firstly, the google glass launched with a luxurious price of \$1,500.
+Google glass, as a product of the Google X facility was a "moonshot" product, which caused the expectations out of the product to be unrealistically high. This negatively impacted the retail of the product in many ways. The google glass launched with a luxurious price of \$1,500 despite costing less than \$200 to manufacture @computerworld. It was marketed by Google as a luxury item for a specific niche of fashion, which indicated poor requirements gathering of what customers truly want out of smart glasses. The product was also greatly over-marketed before it's release. The glass was advertised to augment experiences, with the demo in 2012 featuring skydiving, biking and many other activities, which in reality it was not capable of doing @investopedia. It is important to a project's success that it is appropriately marketed, so that it reaches the intended audience. Customers also expressed privacy concerns of having a camera built into the glass that users might wear for most of the day, further indicating poor requirements analysis of the end user. 
 
-
+== Learnings
+The google glass project was a failure due to sub-optimal planning of 
+ 
 = Project C: 
 = Project D: 
-= Project E: 
+
 
 #bibliography("ref.bib", style: "apa")
