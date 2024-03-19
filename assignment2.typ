@@ -67,9 +67,10 @@ The google glass project is relevant to the discipline of software engineering a
 Google glass, as a product of the Google X facility was a "moonshot" product, which caused the expectations out of the product to be unrealistically high. This negatively impacted the retail of the product in many ways. The google glass launched with a luxurious price of \$1,500 despite costing less than \$200 to manufacture @computerworld. It was marketed by Google as a luxury item for a specific niche of fashion, which indicated poor requirements gathering of what customers truly want out of smart glasses. The product was also greatly over-marketed before it's release. The glass was advertised to augment experiences, with the demo in 2012 featuring skydiving, biking and many other activities, which in reality it was not capable of doing @investopedia. It is important to a project's success that it is appropriately marketed, so that it reaches the intended audience. Customers also expressed privacy concerns of having a camera built into the glass that users might wear for most of the day, further indicating poor requirements analysis of the end user. 
 
 == Learnings
-The google glass project was a failure due to sub-optimal planning of 
+The google glass project was a failure due to sub-optimal prioritisation of requirements. Important details such as user privacy, retail price and technical limitations were neglected in favor of marketing the product as a fashion accessory for a niche customer base. Google was trying to pioneer a new market of smart glasses, however failed to accurately predict features that might entice a potential customer. As a result, not many wanted to take a risk on an unfamiliar product. This highlights the importance of establishing demand and overcoming skepticism for a product with a new market. Google Glass' lack of appealing features failed to establish enough demand for more customers to justify a \$1,500 price tag, ultimately leading to underwhelming sales for the product.
  
-= Project C: 
+= Project C: SpaceX Falcon 1
+
 = Project D: 
 
 
