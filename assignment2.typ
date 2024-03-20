@@ -69,7 +69,24 @@ Google glass, as a product of the Google X facility was a "moonshot" product, wh
 == Learnings
 The google glass project was a failure due to sub-optimal prioritisation of requirements. Important details such as user privacy, retail price and technical limitations were neglected in favor of marketing the product as a fashion accessory for a niche customer base. Google was trying to pioneer a new market of smart glasses, however failed to accurately predict features that might entice a potential customer. As a result, not many wanted to take a risk on an unfamiliar product. This highlights the importance of establishing demand and overcoming skepticism for a product with a new market. Google Glass' lack of appealing features failed to establish enough demand for more customers to justify a \$1,500 price tag, ultimately leading to underwhelming sales for the product.
  
-= Project C: SpaceX Falcon 1
+= Project C: Falcon 1
+
+Falcon 1 was a small-lift rocket operated from 2006 to 2009. It was designed and manufactured by American aerospace company SpaceX. The Falcon 1 was designed to minimize price per launch for low-Earth orbit satellites, by creating reusable pieces for the launch system as much as possible, greatly lowering the cost of space access @smithsonian12.
+
+SpaceX's Falcon 1 project deeply connected to the discipline of software engineering. Rocket boosters require extremely fast real-time computing to maintain balance and ensure that they are on the correct trajectory. It is of critical importance that the software embedded on the rocket is robust and efficient, as even a minor miscalculation could put the entire rocket in jeopardy.
+
+#figure(
+  image("falcon1.jpg", width: 30%),
+  caption: [Falcon 1 Rocket],
+) <falcon>
+
+== Why Falcon 1 Was Successful
+
+The demand for reliable and cheap space travel was very high in the US after the retirement of NASA's Space Shuttle. As a result, SpaceX received government funding from agencies such as Department of Defense (DoD), NASA and the U.S Air force. This initial capital proved to be crucial for iterating through designs of the falcon 1, ultimately leading to it's success.  
+
+SpaceX took a radically different approach to development in comparison to other space exploration companies. They adopted an iterative development process, where they would rapidly build and test prototypes, improving on the design with each cycle @arstech20. This is very similar to the Agile methodology used in software engineering. Despite the greater chance of mistakes and setbacks using this approach, it proved to be successful for the falcon 1 project, which took 3 iterations to finally succeed in reaching low earth orbit. 
+
+== Learnings
 
 = Project D: 
 
