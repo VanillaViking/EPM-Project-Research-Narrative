@@ -82,13 +82,17 @@ SpaceX's Falcon 1 project deeply connected to the discipline of software enginee
 
 == Why Falcon 1 Was Successful
 
-The demand for reliable and cheap space travel was very high in the US after the retirement of NASA's Space Shuttle. As a result, SpaceX received government funding from agencies such as Department of Defense (DoD), NASA and the U.S Air force. This initial capital proved to be crucial for iterating through designs of the falcon 1, ultimately leading to it's success.  
+The demand for reliable and cheap space travel was very high in the US after the retirement of NASA's Space Shuttle. As a result, SpaceX received government funding from agencies such as Department of Defense (DoD), NASA and the U.S Air force. This initial demand and capital proved to be crucial while iterating through designs of the falcon 1, ultimately leading to it's success. 
 
 SpaceX took a radically different approach to development in comparison to other space exploration companies. They adopted an iterative development process, where they would rapidly build and test prototypes, improving on the design with each cycle @arstech20. This is very similar to the Agile methodology used in software engineering. Despite the greater chance of mistakes and setbacks using this approach, it proved to be successful for the falcon 1 project, which took 3 iterations to finally succeed in reaching low earth orbit. 
 
 == Learnings
 
-= Project D: 
+// when to use which methodology
+//importance of demand
 
+SpaceX's falcon 1 project demonstrates the importance of selecting a development methodology that suits the project as well as the team. Due to their decision to use a more agile approach, they were able to develop falcon 1 at an accelarated pace which was instrumental to success. 
+
+= Project D: 
 
 #bibliography("ref.bib", style: "apa")
