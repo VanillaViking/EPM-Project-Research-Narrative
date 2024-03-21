@@ -91,7 +91,7 @@ SpaceX took a radically different approach to development in comparison to other
 // when to use which methodology
 //importance of demand
 
-SpaceX's falcon 1 project demonstrates the importance of selecting a development methodology that suits the project as well as the team. Due to their decision to use a more agile approach, they were able to develop falcon 1 at an accelarated pace which was instrumental to success. 
+SpaceX's falcon 1 project demonstrates the importance of selecting a development methodology that suits the project as well as the team. Due to their decision to use a more agile approach, they were able to develop falcon 1 at an accelarated pace which was instrumental to success. The project also shows the importance of having or establishing high demand for the product. 
 
 = Project D: 
 
